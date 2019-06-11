@@ -1,5 +1,4 @@
-# doordashlite
-DoorDash Interview App
+# DoorDashLite Interview App
 
 ## Folder Structure
 - /data
