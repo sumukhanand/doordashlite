@@ -2,21 +2,21 @@
 DoorDash Interview App
 
 ## Folder Structure
-/data
-    /data_sources
-        - All files relating to external data sources (APIs)
-    /models
-        - Classes modeling data returned from data sources
-        - NOTE: These models are complete, but not all data elements are used in the app
-/ui
-    /adapters
-        - All files relating to RecyclerView adapters
-    /presenters
-        - All presenters including interfaces and base classes
-    /views
-        - All views (Activities) including interfaces and base classes
-/util
-    - All files for utility functions and constants
+- /data
+  - /data_sources
+    - All files relating to external data sources (APIs)
+  - /models
+    - Classes modeling data returned from data sources
+    - NOTE: These models are complete, but not all data elements are used in the app
+- /ui
+  - /adapters
+    - All files relating to RecyclerView adapters
+  - /presenters
+    - All presenters including interfaces and base classes
+  - /views
+    - All views (Activities) including interfaces and base classes
+- /util
+  - All files for utility functions and constants
 
 
 ## Architecture Notes
